@@ -9,8 +9,6 @@ RECONOCIMIENTO SIN INFO DE LAS PERSONAS:
 
 ![Captura9](https://user-images.githubusercontent.com/111430658/187046204-0d0c0f9d-bf04-4c47-a58b-25f6db03f368.png)
 
-![Captura10](https://user-images.githubusercontent.com/111430658/187046206-a85a9a75-3d40-43cf-9d10-f72d84db28b2.png)
-
 
 RECONOCIMIENTO CON INFO DE LAS PERSONAS:
 ![Captura3](https://user-images.githubusercontent.com/111430658/187046141-376e9f51-210f-445f-9ff6-06107463f71f.png)
